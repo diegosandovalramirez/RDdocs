@@ -56,12 +56,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/logo1long.png',
     navbar: {
-      title: 'My Site',
+      title: 'Retail Diver Docs',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'retail diver',
+        src: 'img/logo1long.png',
       },
       items: [
         {
