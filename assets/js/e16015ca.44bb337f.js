@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkb_2_bdocsaurus=self.webpackChunkb_2_bdocsaurus||[]).push([[878],{9635:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
