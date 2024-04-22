@@ -11,7 +11,7 @@ const config: Config = {
   url: 'https://diegosandovalramirez.github.io', // revisar antes del deploy
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/RDdocs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -130,6 +130,15 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+  plugins: [
+    [
+      'docusaurus-plugin-dotenv',
+      {
+          path: "./.env", 
+          systemvars: true, 
+      }
+    ]
+],
 };
 
 export default config;
