@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkb_2_bdocsaurus=self.webpackChunkb_2_bdocsaurus||[]).push([[590],{881:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/RDdocs/blog/tags/docusaurus","allTagsPath":"/RDdocs/blog/tags","count":4,"unlisted":false}')}}]);
