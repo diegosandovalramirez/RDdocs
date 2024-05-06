@@ -32,8 +32,8 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Docs Retail Diver`}
+      description="Documentación oficial de Retail Diver por Forevision">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
