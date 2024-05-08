@@ -45,3 +45,6 @@ Este detalle podrá filtrarse en base a los índices de Rotación, dejando a los
 
 ### Que es el reorder point ?
 Es un punto especifico en el cual el stock debe ser repuesto. En otras palabras, el punto indicado para realizar el "restock".
+
+## Ritmos (Meta) de Venta vs YTD
+![ritmos venta](../../static/img/ritmosventa.png)
