@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Definición General
+# Definición General de RetailDiver
 
 Se definirán todos los Dashboards, KPI´s y Relojes de Alerta que apoyarán al área Comercial y Logística para realizar una eficiente Gestión Comercial y Logística, en especial de Inventarios, tanto desde la Administración General como en el Punto de Venta.
 
